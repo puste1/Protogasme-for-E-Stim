@@ -13,5 +13,5 @@ And all the efford to have this created is lot of help from https://discord.com/
 Thanks to Skier23 for devellop a better algoritme for this board. <br>
 Se more at Skier23 Github https://github.com/Edging-Machines/Edging-Machines
 
-The added code I have used is from https://www.kn34pc.com/spr/arduino_pt2257.html
+The added code I have used to change volume in 79-0 dB is from https://www.kn34pc.com/spr/arduino_pt2257.html <br>
 You have to download this code to get this compiled to Arduino UNI V3.
