@@ -15,4 +15,4 @@ Se more at Skier23 Github https://github.com/Edging-Machines/Edging-Machines
 
 The added code I have used to change volume in 79-0 dB is from <br> 
 https://www.kn34pc.com/spr/arduino_pt2257.html <br>
-You have to download this code to get this compiled to Arduino UNI V3. pt2257_v0.3.zip
+You have to download this code to get this compiled to Arduino UNO V3. pt2257_v0.3.zip
