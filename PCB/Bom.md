@@ -1,7 +1,7 @@
 | Part# | Value          | Description                                  | Mouser               | Amazon                                  |
 | ----- | -------------- | -------------------------------------------- | -------------------- | ----------------------------------------|
 | C1    | 0.1u           | CAPACITOR, American symbol                   | 80-C320C104K5R       | https://www.amazon.com/dp/B007SVHFXO    |
-| C2-6  | 10u            | CAPACITOR, American symbol                   | 647-UFW1H100MDD1TA   | https://www.amazon.com/dp/B007SVHFXO    |
+| C2-6  | 10u            | CAPACITOR, American symbol                   | UFW1H100MDD1TA       | https://www.amazon.com/dp/B007SVHFXO    |
 | U1    | Arduino Uno    | Arduino Uno R3                               |                      |                                         |
 | U2    | PT2257         | Volume Control IC                            |                      | https://www.amazon.com/dp/B082FMSNQG    |
 | U3    | MPX5050GP      | Integrated Silicon Pressure Sensor           | 841-MPX5050GP        | https://www.amazon.com/dp/B005T5KNDK    |
