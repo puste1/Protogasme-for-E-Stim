@@ -12,4 +12,4 @@
 | SW1   | Rotary encoder | ALPS rotary Encoder EC12E series with switch | 652-PEC11R-4115F-S18   | https://www.amazon.com/dp/B0197X1UZY    |
 | --    | NEOPIXEL RING  | Adafruit 24 RGB LED Neopixel Ring            |                        | https://www.amazon.com/dp/B00K9M3WXG    |
 | --    | DIP8           | IC & Component Sockets 8 PIN Optional        | 575-11041308410010     | https://www.amazon.com/dp/B07H3V9DSF    |
-| --    | Screw 3 Pol    | Fixed Terminal Blocks WR-TBL Optional        | 710-691103110003       | https://www.amazon.com/dp/B07H3V9DSF    |
+| --    | Screw 3 Pol    | Fixed Terminal Blocks WR-TBL Optional        | 710-691103110003       | https://www.amazon.com/dp/B06ZYN7R2B    |
