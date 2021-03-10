@@ -1,4 +1,4 @@
-| Part  | Value          | Description                                  | Mouser               | Amazon                                  |
+| Part# | Value          | Description                                  | Mouser               | Amazon                                  |
 | ----- | -------------- | -------------------------------------------- | -------------------- | ----------------------------------------|
 | C1    | 0.1u           | CAPACITOR, American symbol                   | 80-C320C104K5R       | https://www.amazon.com/dp/B007SVHFXO    |
 | C2-6  | 10u            | CAPACITOR, American symbol                   | 80-C320C104K5R       | https://www.amazon.com/dp/B007SVHFXO    |
